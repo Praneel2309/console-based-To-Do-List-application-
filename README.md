@@ -1,7 +1,5 @@
 # To-Do List Console Application
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 A simple console-based To-Do List application in C++ that allows you to manage your tasks efficiently. You can add, view, sort, mark as completed, and remove tasks with ease.
 
 ## Features
