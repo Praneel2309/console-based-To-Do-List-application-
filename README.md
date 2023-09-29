@@ -4,16 +4,6 @@
 
 A simple console-based To-Do List application in C++ that allows you to manage your tasks efficiently. You can add, view, sort, mark as completed, and remove tasks with ease.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Compilation](#compilation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Add tasks with name, priority, due date, and category.
